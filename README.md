@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Andrés Chávez</h1>
-<h3 align="center">A passionate frontend developer from Mexico</h3>
+<h3 align="center">A passionate frontend developer (Angular / Ionic) from Mexico</h3>
 
-- 🔭 I’m currently working on **Freelance Projects, and side projects**
+- 🔭 I’m currently working on **Deadline studio, and side projects**
 
-- 🌱 I’m currently learning **React, sass, JS**
+- 🌱 I’m currently learning **Angular, Ionic, sass, Ts, Testing(Jasmine)**
 
-- 🤝 I’m looking for help with **React and JS**
+- 🤝 I’m looking for help with **Testing and Angular**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AndresCM12](https://github.com/AndresCM12)
 
