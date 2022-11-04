@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrés Chávez</h1>
 <h3 align="center">A passionate frontend developer (Angular / Ionic) from Mexico</h3>
 
-- 🔭 I’m currently working on **Deadline studio, and side projects**
+- 🔭 I’m currently working at **Deadline studio, and side projects**
 
 - 🌱 I’m currently learning **Angular, Ionic, sass, Ts, Testing(Jasmine)**
 
