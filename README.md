@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working at **Deadline studio, and side projects**
 
-- 🌱 I’m using **Angular, Ionic, React, Flutter**
+- 🌱 I’m using **Angular, React, SwiftUI**
 
-- 🤝 I’m looking for help with **Testing and Flutter**
+- 🤝 I’m looking for help with **SwiftUI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AndresCM12](https://github.com/AndresCM12)
+- 👨‍💻 Some of my projects are available at [https://github.com/AndresCM12](https://github.com/AndresCM12)
 
 - 📫 How to reach me **q.chavezandres@gmail.com**
 
