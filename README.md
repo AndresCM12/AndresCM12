@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at **Deadline studio, and side projects**
 
-- 🌱 I’m using **Angular, React, SwiftUI**
+- 🌱 I’m using **Angular, React, SwiftUI, Flutter, React Native, Next JS**
 
 - 🤝 I’m looking for help with **SwiftUI**
 
